@@ -1,0 +1,16 @@
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\Radajewski.exe
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\Radajewski.deps.json
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\Radajewski.runtimeconfig.json
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\Radajewski.runtimeconfig.dev.json
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\Radajewski.dll
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\ref\Radajewski.dll
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\bin\Debug\net5.0\Radajewski.pdb
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.csproj.AssemblyReference.cache
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.AssemblyInfoInputs.cache
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.AssemblyInfo.cs
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.csproj.CoreCompileInputs.cache
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.dll
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\ref\Radajewski.dll
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.pdb
+C:\Users\KOMPUTER\Desktop\Kolokwium\Radajewski\Radajewski\obj\Debug\net5.0\Radajewski.genruntimeconfig.cache
